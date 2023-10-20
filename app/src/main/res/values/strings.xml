@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileDownLoaderKamada2</string>
+    <string name="gallery_select">GALLERYから選択</string>
+    <string name="please_url">urlを入れてください</string>
+    <string name="download_start">ダウンロード開始</string>
+    <string name="google">Google</string>
+    <string name="draw_search">画像検索開始</string>
+    <string name="clear">Clear</string>
+    <string name="download_exist">ダウンロードした画像</string>
+</resources>
